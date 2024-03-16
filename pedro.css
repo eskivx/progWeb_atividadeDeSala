@@ -1,0 +1,9 @@
+body {
+    font-family: "Roboto";
+    text-align: center;
+    background-color: blanchedalmond;
+  }
+
+header {
+    display: flex;
+}
