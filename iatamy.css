@@ -1,0 +1,24 @@
+body {
+  font-family: "Roboto";
+  text-align: center;
+  background-color: blanchedalmond;
+}
+
+header {
+  display: flex;
+}
+
+div{
+
+display: flex;
+flex-direction: column;
+align-items: center;
+
+}
+
+img{
+border-radius: 30px;
+width: 300px;
+height: auto;
+box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5);
+}
