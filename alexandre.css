@@ -1,0 +1,13 @@
+body {
+    font-family: "Roboto";
+    text-align: center;
+    background-color: blanchedalmond;
+  }
+
+header {
+    display: flex;
+}
+img {
+    width: 300px;
+    border-radius: 50px;
+}
